@@ -1,7 +1,6 @@
 // Name Abrham Tamiru
 // Class (CECS 342-07)
 // Project Name (Prog 5 – Rust Heap sort)
-// Due Date (12/07/1997)
 //
 // I certify that this program is my own original work. I did not copy any part of this program from
 // any other source. I further certify that I typed each and every line of code in this program.
